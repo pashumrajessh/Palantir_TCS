@@ -1,0 +1,13 @@
+vehicleId,vin,make,model,year,licensePlate,status,currentLocation
+VEH-001,1FTBW3XG7PKA10234,Ford,Transit-350,2022,TRK-1042,Active,Warehouse A
+VEH-002,1HTMMAAL5NH123456,International,DuraStar,2021,TRK-2087,Active,Distribution Center 2
+VEH-003,4V4NC9EH7DN123789,Volvo,VNL 760,2023,TRK-3311,Active,Warehouse A
+VEH-004,3AKJHHDR5JSJA1234,Freightliner,Cascadia,2020,TRK-4456,Maintenance,Service Bay 1
+VEH-005,1FUJGLDR8CLBP1234,Kenworth,T680,2022,TRK-5521,Active,Distribution Center 2
+VEH-006,1XPBDP9X1ND123456,Peterbilt,579,2019,TRK-6098,Inactive,Warehouse B
+VEH-007,JALC4W16007001234,Isuzu,NPR-HD,2023,TRK-7213,Active,Warehouse A
+VEH-008,JHHFC1H50GK123456,Hino,268A,2021,TRK-8034,Active,Distribution Center 1
+VEH-009,1FTBW3XG2NKA56789,Ford,Transit-250,2024,TRK-9145,Active,Warehouse B
+VEH-010,4V4NC9EHXEN654321,Volvo,VNL 860,2020,TRK-1056,Maintenance,Service Bay 2
+VEH-011,1HTMMAAL2PH987654,International,LT Series,2024,TRK-1187,Active,Distribution Center 1
+VEH-012,3AKJHHDR1LSJB5678,Freightliner,Cascadia,2022,TRK-1298,Active,Warehouse A
